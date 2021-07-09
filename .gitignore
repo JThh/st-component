@@ -1,4 +1,4 @@
 node_modules
 .vscode
-./my_component/venv
-./my_component/env
+my_component/venv
+my_component/env
